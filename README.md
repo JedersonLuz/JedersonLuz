@@ -17,4 +17,6 @@ I'm a software and machine learning engineer undergraduated as Bachelor in Infor
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedersonluz&layout=compact&bg_color=00000000)
 
+<!--
 <img src="https://raw.githubusercontent.com/JedersonLuz/JedersonLuz/output/snake.svg" alt="Snake animation" />
+-->
