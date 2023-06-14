@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Jederson Luz 👋🏻🧑🏻‍💻
 
-<!--
-**JedersonLuz/JedersonLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software and machine learning engineer undergraduated as Bachelor in Information Systems at the Federal University of Piauí - UFPI and Master's degree student in Electrical Engineering at the Federal University of Piauí - UFPI. Currently I'm working on my own projects building solutions with web and mobile apps, and machine learning.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Visit Counter](https://visitcount.itsvg.in/api?id=JedersonLuz&icon=0&color=1)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jedersonluz) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Jederson_Luz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,ts,fastapi,nextjs,react,tailwind,figma,prisma,planetscale,vercel,netlify,aws,docker,firebase,mysql,postgres,tensorflow,pytorch,linux)](https://skillicons.dev)
+
+# 📊 GitHub Stats:
+![Jederson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedersonluz&show_icons=true&bg_color=00000000)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JedersonLuz&theme=transparent)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedersonluz&layout=compact&bg_color=00000000)
+
+<img src="https://raw.githubusercontent.com/JedersonLuz/JedersonLuz/output/snake.svg" alt="Snake animation" />
