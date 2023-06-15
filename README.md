@@ -1,6 +1,6 @@
 # Hi, I'm Jederson Luz 👋🏻🧑🏻‍💻
 
-I'm a software and machine learning engineer undergraduated as Bachelor in Information Systems at the Federal University of Piauí - UFPI and Master's degree student in Electrical Engineering at the Federal University of Piauí - UFPI. Currently I'm working on my own projects building solutions with web and mobile apps, and machine learning.
+I'm a Software and Machine Learning Engineer undergraduate with a Bachelor's in Information Systems at the Federal University of Piauí - UFPI and a Master's student in Electrical Engineering at the Federal University of Piauí - UFPI. I'm currently working on my projects building solutions with web and mobile apps, and machine learning.
 
 ## 🌐 Socials:
 [![Visit Counter](https://visitcount.itsvg.in/api?id=JedersonLuz&icon=0&color=1)](https://visitcount.itsvg.in)
