@@ -1,6 +1,6 @@
 # Hi, I'm Jederson Luz 👋🏻🧑🏻‍💻
 
-I'm a Software and Machine Learning Engineer undergraduate with a Bachelor's in Information Systems at the Federal University of Piauí - UFPI and a Master's student in Electrical Engineering at the Federal University of Piauí - UFPI. I'm currently working on my projects building solutions with web and mobile apps, and machine learning.
+I'm Co-Founder, Software and ML Engineer at Zumbeedo, a startup focused on developing solutions for beekeepers using artificial intelligence and audio signal processing techniques. Also, I'm a Master's student in Electrical Engineering, with an emphasis on Computational Intelligence, at the Federal University of Piauí (UFPI).
 
 # 🌐 Socials
 [![Visit Counter](https://visitcount.itsvg.in/api?id=JedersonLuz&icon=0&color=1)](https://visitcount.itsvg.in)
