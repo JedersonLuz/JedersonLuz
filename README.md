@@ -1,6 +1,6 @@
 # Hi, I'm Jederson Luz 👋🏻🧑🏻‍💻
 
-I'm Co-Founder, Software and ML Engineer at Zumbeedo, a startup focused on developing solutions for beekeepers using artificial intelligence and audio signal processing techniques. Also, I'm Co-Founder and Software Engineer at Turbo Dev, a startup focused on developing solutions for companies. Besides that, I'm a Master's student in Electrical Engineering, with an emphasis on Computational Intelligence, at the Federal University of Piauí (UFPI).
+I'm Co-Founder, Software and ML Engineer at [Zumbeedo](https://zumbeedo.com.br/), a startup focused on developing solutions for beekeepers using artificial intelligence and audio signal processing techniques. Also, I'm Co-Founder and Software Engineer at [Turbo Dev](https://www.linkedin.com/company/turbodevteam/), a startup focused on developing solutions for companies. Besides that, I'm a Master's student in Electrical Engineering, with an emphasis on Computational Intelligence, at the Federal University of Piauí (UFPI).
 
 # 🌐 Socials
 [![Visit Counter](https://visitcount.itsvg.in/api?id=JedersonLuz&icon=0&color=1)](https://visitcount.itsvg.in)
