@@ -2,7 +2,7 @@
 
 Full-stack engineer with ~7 years across research, generative AI, and classical ML applied to audio.
 
-I work as a Software Engineer (Generative AI) at [Jumpad](https://jumpad.ai), and I'm Co-Founder & Lead Software Engineer at [Zumbeedo](https://zumbeedo.com.br/), a startup building solutions for beekeepers using artificial intelligence and audio signal processing. I'm also a Master's student in Electrical Engineering, with an emphasis on Computational Intelligence, at the Federal University of Piauí (UFPI).
+I work as a Software Engineer (Generative AI) at [Jumpad](https://jumpad.ai), and I'm Co-Founder & Lead Software Engineer at [Zumbeedo](https://zumbeedo.com.br/), a startup building solutions for beekeepers using artificial intelligence and audio signal processing.
 
 # 🌐 Socials
 [![Website](https://img.shields.io/badge/Website-jedersonluz.dev-2ea44f?logo=googlechrome&logoColor=white)](https://www.jedersonluz.dev/)
