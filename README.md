@@ -18,10 +18,11 @@ Full-stack engineer who ships AI products — from classical ML on audio signals
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,go,nodejs,nestjs,fastapi,nextjs,react,vite,tailwind,figma,prisma,planetscale,firebase,mysql,postgres,tensorflow,pytorch,docker,aws,gcp,vercel,linux)](https://skillicons.dev)
 
 # 📊 GitHub Stats
-![Jederson's GitHub stats](https://github-stats-extended.vercel.app/api?username=jedersonluz&show_icons=true&bg_color=00000000)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JedersonLuz&theme=transparent)](https://git.io/streak-stats)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jedersonluz&layout=compact&bg_color=00000000)
-
-<img src="https://raw.githubusercontent.com/JedersonLuz/JedersonLuz/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=jedersonluz&show_icons=true&bg_color=00000000" alt="Jederson's GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jedersonluz&layout=compact&bg_color=00000000" alt="Top Langs" />
+  <br /><br />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JedersonLuz&theme=transparent" alt="GitHub Streak" /></a>
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/JedersonLuz/JedersonLuz/output/snake.svg" alt="Snake animation" />
+</div>
