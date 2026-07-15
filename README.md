@@ -1,22 +1,22 @@
 # Hi, I'm Jederson Luz 👋🏻🧑🏻‍💻
 
-I'm Co-Founder, Software and ML Engineer at [Zumbeedo](https://zumbeedo.com.br/), a startup focused on developing solutions for beekeepers using artificial intelligence and audio signal processing techniques. Also, I'm Co-Founder and Software Engineer at [Turbo Dev](https://www.linkedin.com/company/turbodevteam/), a startup focused on developing solutions for companies. Besides that, I'm a Master's student in Electrical Engineering, with an emphasis on Computational Intelligence, at the Federal University of Piauí (UFPI).
+Full-stack engineer with ~7 years across research, generative AI, and classical ML applied to audio.
+
+I work as a Software Engineer (Generative AI) at [Jumpad](https://jumpad.ai), and I'm Co-Founder & Lead Software Engineer at [Zumbeedo](https://zumbeedo.com.br/), a startup building solutions for beekeepers using artificial intelligence and audio signal processing. I'm also a Master's student in Electrical Engineering, with an emphasis on Computational Intelligence, at the Federal University of Piauí (UFPI).
 
 # 🌐 Socials
-[![Visit Counter](https://visitcount.itsvg.in/api?id=JedersonLuz&icon=0&color=1)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jedersonluz) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Jederson_Luz)
+[![Website](https://img.shields.io/badge/Website-jedersonluz.dev-2ea44f?logo=googlechrome&logoColor=white)](https://www.jedersonluz.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jedersonluz)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/Jederson_Luz)
 
 # 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,ts,fastapi,nextjs,react,tailwind,figma,prisma,planetscale,vercel,netlify,aws,docker,firebase,mysql,postgres,tensorflow,pytorch,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,nextjs,react,tailwind,figma,prisma,planetscale,docker,aws,gcp,vercel,postgres,mysql)](https://skillicons.dev)
 
 # 📊 GitHub Stats
-![Jederson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedersonluz&show_icons=true&bg_color=00000000)
+![Jederson's GitHub stats](https://github-stats-extended.vercel.app/api?username=jedersonluz&show_icons=true&bg_color=00000000)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JedersonLuz&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JedersonLuz&theme=transparent)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedersonluz&layout=compact&bg_color=00000000)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jedersonluz&layout=compact&bg_color=00000000)
 
-<!--
 <img src="https://raw.githubusercontent.com/JedersonLuz/JedersonLuz/output/snake.svg" alt="Snake animation" />
--->
