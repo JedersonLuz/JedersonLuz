@@ -13,7 +13,7 @@ Full-stack engineer who ships AI products — from classical ML on audio signals
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/Jederson_Luz)
 
 # 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,nextjs,react,tailwind,figma,prisma,planetscale,docker,aws,gcp,vercel,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,go,nodejs,nestjs,fastapi,nextjs,react,vite,tailwind,figma,prisma,planetscale,firebase,mysql,postgres,tensorflow,pytorch,docker,aws,gcp,vercel,linux)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 ![Jederson's GitHub stats](https://github-stats-extended.vercel.app/api?username=jedersonluz&show_icons=true&bg_color=00000000)
