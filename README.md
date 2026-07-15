@@ -1,8 +1,11 @@
 # Hi, I'm Jederson Luz 👋🏻🧑🏻‍💻
 
-Full-stack engineer with ~7 years across research, generative AI, and classical ML applied to audio.
+Full-stack engineer who ships AI products — from classical ML on audio signals to LLM-powered apps.
 
-I work as a Software Engineer (Generative AI) at [Jumpad](https://jumpad.ai), and I'm Co-Founder & Lead Software Engineer at [Zumbeedo](https://zumbeedo.com.br/), a startup building solutions for beekeepers using artificial intelligence and audio signal processing.
+- 🤖 Software Engineer (Generative AI) at [Jumpad](https://jumpad.ai)
+- 🐝 Co-Founder & Lead Software Engineer at [Zumbeedo](https://zumbeedo.com.br/) — AI and audio signal processing for beekeepers
+- 📍 Picos, Brazil — working remotely
+- 🎻 Off the keyboard: violin, classical literature, and church history
 
 # 🌐 Socials
 [![Website](https://img.shields.io/badge/Website-jedersonluz.dev-2ea44f?logo=googlechrome&logoColor=white)](https://www.jedersonluz.dev/)
