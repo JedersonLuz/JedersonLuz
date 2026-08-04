@@ -22,7 +22,5 @@ Full-stack engineer who ships AI products — from classical ML on audio signals
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=jedersonluz&show_icons=true&theme=transparent" alt="Jederson's GitHub stats" />
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jedersonluz&layout=compact&theme=transparent" alt="Top Langs" />
   <br /><br />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JedersonLuz&theme=transparent" alt="GitHub Streak" /></a>
-  <br /><br />
   <img src="https://raw.githubusercontent.com/JedersonLuz/JedersonLuz/output/snake.svg" alt="Snake animation" />
 </div>
